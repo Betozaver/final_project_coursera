@@ -9,9 +9,7 @@ data to determine the cost of a launch. Space Y uses the data to bid against Spa
 for a rocket launch. SpaceX advertises Falcon 9 rocket launch cost to be 62 million
 dollars.
 Whereas for other companies the cost of a rocket launch is more than 165 million
-dollars. Throughout the project Python Jupyter note books are used to perform the
-data collection and analysis. These Jupyter note books and the final *.pdf report are
-saved in my GitHub repository webpage.
+dollars. Throughout the project IDE of choice was JupyterNote book in which I have preformed data collection and analysis.
 The major parts of this report include data collection methodology, data wrangling,
 exploratory data analysis (EDA), interactive data visualization, machine learning
 (ML) classification model development, and model evaluation. Finally, the accuracy
